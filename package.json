@@ -1,0 +1,21 @@
+{
+  "name": "bestvscodetheme",
+  "displayName": "The Best VSCode Theme",
+  "description": "Default VS Code Dark Modern font colors with GitHub Dark Background",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "The Best VSCode Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/The Best VSCode Theme-color-theme.json"
+      }
+    ]
+  }
+}
