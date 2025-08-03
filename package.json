@@ -3,10 +3,11 @@
   "displayName": "The Best VSCode Theme Ever",
   "description": "Default VS Code Dark Modern font colors with GitHub Dark Background",
   "publisher": "danielvfrodrigues",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.102.0"
   },
+  "icon": "./assets/vshub-logo.png",
   "categories": [
     "Themes"
   ],
