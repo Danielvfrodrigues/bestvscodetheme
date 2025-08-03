@@ -3,7 +3,7 @@
   "displayName": "The Best VSCode Theme Ever",
   "description": "Default VS Code Dark Modern font colors with GitHub Dark Background",
   "publisher": "danielvfrodrigues",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.102.0"
   },
@@ -19,7 +19,7 @@
         "path": "./themes/the-best-vs-code-theme-color-theme.json"
       },
       {
-        "label": "The BEst VSCode Theme Ever Light",
+        "label": "The Best VSCode Theme Ever Light",
         "uiTheme": "vs",
         "path": "./themes/the-best-vs-code-theme-color-theme-light.json"
       }
