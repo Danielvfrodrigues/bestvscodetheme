@@ -16,6 +16,11 @@
         "label": "The Best VSCode Theme Ever",
         "uiTheme": "vs-dark",
         "path": "./themes/the-best-vs-code-theme-color-theme.json"
+      },
+      {
+        "label": "The BEst VSCode Theme Ever Light",
+        "uiTheme": "vs",
+        "path": "./themes/the-best-vs-code-theme-color-theme-light.json"
       }
     ]
   },
